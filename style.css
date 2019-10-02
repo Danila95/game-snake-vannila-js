@@ -1,0 +1,13 @@
+canvas {
+	display: block;
+	margin: 0 auto;
+}
+.game {
+	display: flex;
+	flex-direction: column;
+}
+.game img {
+	width: 80px;
+	height: 15px;
+	margin: 0 auto;
+}
